@@ -1,0 +1,12 @@
+jupyter
+matplotlib
+pandas
+seaborn
+numpy
+spacy
+transformers
+wordcloud
+transformers
+datasets
+scikit-learn
+torch
